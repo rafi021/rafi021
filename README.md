@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 📖 About me
 
-I am a Web Developer. I am working with Laravel, PHP, Vue, React, REST API and MySQL. I also have experience in developing static/dynamic websites using HTML5, CSS3, Bootstrap, JavaScript (ES6). I am a quick learner & I believe in hard work and efficiency.
+I am a Web Developer. I am working with Laravel, PHP, Vue, React, REST API and MySQL. I also have experience in developing static/dynamic websites using HTML5, CSS3, Bootstrap, JavaScript (ES6). I am a quick learner & I believe in hard work and efficiency.  I am passionate about effectiveness and speed of development also fun of clean code - so that clients get the first version of the product as soon as possible.
 
  ### 🕵🏻‍♂️ Conect with me
  
