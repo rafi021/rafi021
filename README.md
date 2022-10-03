@@ -163,7 +163,7 @@ I am a Web Developer. I am working with Laravel, PHP, Vue, React, REST API and M
 </table>
   <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi021&langs_count=10&layout=compact&theme=vue-dark" alt="Mahmud Ibrahim"/></br></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi021&langs_count=10&layout=compact&theme=vue" alt="Mahmud Ibrahim"/></br></p>
       
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafi021&show_icons=true&locale=en&theme=vue-dark" alt="Mahmud Ibrahim"/ ></br></p>
@@ -173,3 +173,4 @@ I am a Web Developer. I am working with Laravel, PHP, Vue, React, REST API and M
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafi021&show_icons=true&locale=en" alt="Mahmud Ibrahim"/ ></br></p> -->
    
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi021&" alt="Mahmud Ibrahim" /></p>
+<p align="center"><img width="1000" align="center" src="https://activity-graph.herokuapp.com/graph?username=rafi021&theme=react-dark&hide_border=true&area=true"/></p>
