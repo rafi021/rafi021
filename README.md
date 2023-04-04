@@ -81,6 +81,3 @@ src="https://img.shields.io/twitter/follow/EngMahmudI13953?logo=twitter&style=fo
 
 <div width="100%" align="center"><a href="https://github.com/rafi021/laravel-multi-tenency" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi021&repo=laravel-multi-tenency&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rafi021/laravelGraphql" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi021&repo=laravelGraphql&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<br><br>
-## Support Me
-<a href="https://www.buymeacoffee.com/mahmud.ibrahim"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
