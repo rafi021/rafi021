@@ -6,15 +6,21 @@ Senior Software Engineer, Professional Full Stack Developer
 
 I am a Full Stack Web Developer. I am working with Laravel, PHP, Vue, React, TypeScript, REST API, GraphQL, and MySQL,PostgreSQL, MondoDB, Docker, Micro Services, CI/CD, RabittMQ, Kafka, Kubernates, Linux, AWS and Other SSR & CSR Tech Stack. I have a decade (10+ Yrs) experience in developing static/dynamic websites using HTML5, CSS3, Bootstrap, JavaScript (ES6). I am a quick learner & I believe in hard work and efficiency. I am passionate about effectiveness and speed of development also fun of clean code - so that clients get the first version of the product as soon as possible.
 
-*   🌍  I'm based in Dhaka, Bangladesh
-*   🖥️  See my portfolio at [My Profile](http://www.linkedin.com/in/mahmud-ibrahim-4917ba21a/)
-*   ✉️  You can contact me at [eng.ibrahim.mahmud@gmail.com](mailto:eng.ibrahim.mahmud@gmail.com)
-*   🚀  I'm currently working on [Senior Software Engineer at Shuttle BD](http://shuttlebd.com/)
-*   🤝  I'm open to collaborating on Open Source Projects
-*   ⚡  I love to ride bike.<a href="https://www.github.com/rafi021" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/rafi021?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/EngMahmudI13953" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/EngMahmudI13953?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+* 🌍  I'm based in Dhaka, Bangladesh
+* 🖥️  See my portfolio at [My Profile](http://www.linkedin.com/in/mahmud-ibrahim-4917ba21a/)
+* ✉️  You can contact me at [eng.ibrahim.mahmud@gmail.com](mailto:eng.ibrahim.mahmud@gmail.com)
+* 🚀  I'm currently working on [Senior Software Engineer at Shuttle BD](http://shuttlebd.com/)
+* 🤝  I'm open to collaborating on Open Source Projects
+* ⚡  I love to ride bike.
+
+<a href="https://www.github.com/rafi021" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rafi021?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/EngMahmudI13953" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/EngMahmudI13953?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -49,25 +55,32 @@ I am a Full Stack Web Developer. I am working with Laravel, PHP, Vue, React, Typ
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/ibrahim-shuttle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.facebook.com/mahmud.ibrahim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/rafi021" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/mahmud-ibrahim-4917ba21a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/EngMahmudI13953" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.youtube.com/c/MahmudIbrahim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/rafi021"><img src="https://github-readme-stats.vercel.app/api?username=rafi021&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rafi021's GitHub stats" /></a><a
-                      href="http://www.github.com/rafi021"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=rafi021&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/rafi021"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rafi021&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/rafi021" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi021&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/rafi021/laravue3CompAPI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi021&repo=laravue3CompAPI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rafi021/Laravel-Advance-Ecommerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi021&repo=Laravel-Advance-Ecommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/rafi021/laravel-multi-tenency" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi021&repo=laravel-multi-tenency&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rafi021/laravelGraphql" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi021&repo=laravelGraphql&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>### Support Me<a
-                  href="https://www.buymeacoffee.com/mahmud.ibrahim"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/ibrahim-shuttle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/mahmud.ibrahim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/rafi021" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahmud-ibrahim-4917ba21a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EngMahmudI13953" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/MahmudIbrahim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/rafi021"><img src="https://github-readme-stats.vercel.app/api?username=rafi021&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rafi021's GitHub stats" /></a>
+
+<a href="http://www.github.com/rafi021"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafi021&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/rafi021"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rafi021&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/rafi021" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi021&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/rafi021/laravue3CompAPI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi021&repo=laravue3CompAPI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rafi021/Laravel-Advance-Ecommerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi021&repo=Laravel-Advance-Ecommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/rafi021/laravel-multi-tenency" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi021&repo=laravel-multi-tenency&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rafi021/laravelGraphql" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi021&repo=laravelGraphql&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/mahmud.ibrahim"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
