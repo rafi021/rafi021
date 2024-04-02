@@ -11,7 +11,7 @@ I am a Full Stack Web Developer. I am working with Laravel, PHP, Vue, React, Typ
 * ✉️  You can contact me at [eng.ibrahim.mahmud@gmail.com](mailto:eng.ibrahim.mahmud@gmail.com)
 * 🚀  I'm currently working on [Senior Software Engineer at Hishabee Tech](https://hishabee.io/)
 * 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  I love to ride bike.
+* ⚡  I love to ride 🏍️ bike. 
 
 <a href="https://www.github.com/rafi021" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rafi021?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/EngMahmudI13953" target="_blank" rel="noreferrer"><img
