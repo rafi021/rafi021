@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engineer, Professional Full Stack Developer
 -----------------------------------------------------------
 
-I am a Full Stack Web Developer. I am working with Laravel, PHP, Vue, React, TypeScript, REST API, GraphQL, and MySQL,PostgreSQL, MondoDB, Docker, Micro Services, CI/CD, RabittMQ, Kafka, Kubernates, Linux, AWS and Other SSR & CSR Tech Stack. I have a decade (10+ Yrs) experience in developing static/dynamic websites using HTML5, CSS3, Bootstrap, JavaScript (ES6). I am a quick learner & I believe in hard work and efficiency. I am passionate about effectiveness and speed of development also fun of clean code - so that clients get the first version of the product as soon as possible.
+I am a Full Stack Web Developer. I am working with Laravel, PHP, Vue, React, TypeScript, REST API, GraphQL, MySQL, PostgreSQL, MongoDB, Docker, Micro Services, CI/CD, RabittMQ, Kafka, Kubernetes, Linux, AWS and Other SSR & CSR Tech Stack. I have a decade (10+ Yrs) of experience in developing static/dynamic websites using PHP and JavaScript (ES6). I am a quick learner & I believe in hard work and efficiency. I am passionate about the effectiveness and speed of development and also the fun of clean code - so that clients get the first version of the product as soon as possible.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [My Profile](http://www.linkedin.com/in/mahmud-ibrahim-4917ba21a/)
