@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=0891B2&center=true&vCenter=true&width=700&lines=Solution+Architect+%26+Platform+Engineer;Scaling+systems+to+serve+millions; TypeScript+%7C+Go+%7C+Python+%7C+Distributed+Systems" alt="Solution Architect and Platform Engineer — TypeScript, Go, Python, distributed systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=0891B2&center=true&vCenter=true&width=700&lines=Solution+Architect+%26+Platform+Engineer;Scaling+systems+to+serve+millions;TypeScript+%7C+Go+%7C+Python+%7C+Distributed+Systems" alt="Solution Architect and Platform Engineer — TypeScript, Go, Python, distributed systems" />
 
 # Mahmud Ibrahim
 
