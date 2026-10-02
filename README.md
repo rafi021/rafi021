@@ -1,59 +1,102 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Mahmud Ibrahim
-===================================================================================================
+<div align="center">
 
-Professional Full Stack Platform Engineer (Specialty: Backend Engineering)
------------------------------------------------------------
-I am a Full Stack Platform Engineer. I work with NestJS, Go, Python/FastAPI, Django, PHP/Laravel,  Vue, React/Next.Js, TypeScript, REST API, GraphQL, MySQL, PostgreSQL, MongoDB, Docker, microservices, CI/CD, RabbitMQ, Kafka, Kubernetes, Linux, AWS, and Other SSR & CSR Tech Stack. I have a decade (14+ years) of experience in developing static/dynamic websites using TS, JS, Go, and Python. I am a quick learner & I believe in hard work and efficiency. I am passionate about efficient, fast development and clean code, so clients get the first version of the product as soon as possible.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=0891B2&center=true&vCenter=true&width=700&lines=Solution+Architect+%26+Platform+Engineer;Scaling+systems+to+serve+millions;TypeScript+%7C+Go+%7C+Python+%7C+Distributed+Systems" alt="Solution Architect and Platform Engineer — TypeScript, Go, Python, distributed systems" />
 
-* 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [My Profile](https://rafi021.github.io/mahmud-ibrahim-portfolio/)
-* ✉️  You can contact me at [eng.ibrahim.mahmud@gmail.com](mailto:eng.ibrahim.mahmud@gmail.com)
-* 🚀  I'm currently working as a Solution Architect & FDE at Akij Venture Ltd
-* 🤝  I'm open to collaborating on open-source projects
-* ⚡  I love to ride 🏍️ bike. 
+# Mahmud Ibrahim
 
-<a href="https://www.github.com/rafi021" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rafi021?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/EngMahmudI13953" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/EngMahmudI13953?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+**Solution Architect & FDE @ Akij Venture Ltd** · Dhaka, Bangladesh 🇧🇩
 
-### Skills
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=flat-square&logo=googlechrome&logoColor=white)](https://rafi021.github.io/mahmud-ibrahim-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmud-ibrahim-4917ba21a)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eng.ibrahim.mahmud@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mahmud.ibrahim021)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/EngMahmudI13953)
+[![Followers](https://img.shields.io/github/followers/rafi021?style=flat-square&logo=github&label=Followers&color=0891B2)](https://github.com/rafi021?tab=followers)
 
-
-<p align="left">
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://nestjs.com/logo.svg" width="36" height="36" alt="nestjs" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-
-</p>
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ibrahim-shuttle) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmud.ibrahim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmud.ibrahim021) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmud-ibrahim-4917ba21a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mahmud.ibrahim021) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EngMahmudI13953) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MahmudIbrahim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eng.ibrahim.mahmud@gmail.com) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rafi021&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rafi021&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi021&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rafi021&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🧭 About
+
+I design and ship backend platforms that stay up under load. 14+ years across the stack — now focused on **TypeScript, Go and Python**: service decomposition, event-driven messaging, API contracts, and the Kubernetes and CI/CD plumbing that gets it all to production.
+
+Today I work as **Solution Architect & Forward Deployed Engineer** at Akij Venture Ltd, turning business requirements into systems that scale to millions of users — and embedding with teams to make sure they actually land.
+
+```yaml
+role:      Solution Architect · Platform / Backend Engineer
+languages: TypeScript, Go, Python, JavaScript
+runtimes:  NestJS, FastAPI, Express, Fastify, Go Fiber
+focus:     microservices, event-driven architecture, API design, DevOps
+infra:     Kubernetes, Docker, AWS, Kafka, RabbitMQ, Redis, Linux
+open_to:   open-source collaboration, systems-design consulting
+offline:   motorcycle rides 🏍️
+```
+
+---
+
+## 🚀 Featured Work
+
+Projects chosen for the architecture they demonstrate, not the star count.
+
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| **[Microservice-Node-Mongo-NestJS-RabbitMQ](https://github.com/rafi021/Microservice-Node-Mongo-NestJS-RabbitMQ)** | Service decomposition with async messaging between independently deployable NestJS services | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **[kafka-docker-compose](https://github.com/rafi021/kafka-docker-compose)** | Reproducible Kafka cluster with working producer/consumer — event streaming you can run in one command | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **[chat-server](https://github.com/rafi021/chat-server)** | Real-time bidirectional messaging — connection lifecycle and state handling | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![WS](https://img.shields.io/badge/-WebSockets-0891B2?style=flat-square&logo=socketdotio&logoColor=white) |
+| **[go-fiber-blog](https://github.com/rafi021/go-fiber-blog)** · **[studentgo-api](https://github.com/rafi021/studentgo-api)** | Idiomatic Go REST services — typed handlers, middleware chains, clean layering | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **[fastapi](https://github.com/rafi021/fastapi)** · **[fastapi-tutorial](https://github.com/rafi021/fastapi-tutorial)** | Async Python APIs with Pydantic validation and auto-generated OpenAPI schemas | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **[medium-clone-nestjs](https://github.com/rafi021/medium-clone-nestjs)** | Full RealWorld API spec — auth, relations, pagination on a modular DI architecture | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **[react-admin-dashboard](https://github.com/rafi021/react-admin-dashboard)** | Modern typed frontend — React 19 with predictable client state | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React_19-087EA4?style=flat-square&logo=react&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=flat-square) |
+
+**Infrastructure recipes** — one-command local stacks for the services I build against:
+[Kafka](https://github.com/rafi021/kafka-docker-compose) · [RabbitMQ](https://github.com/rafi021/rabbitmq-message-broker-docker-compose) · [Redis + RedisInsight](https://github.com/rafi021/redis-redisinsight-docker-compose) · [PostgreSQL + Adminer](https://github.com/rafi021/postgresql-adminer-docker-compose) · [MERN](https://github.com/rafi021/MERN-docker-compose) · [Prometheus](https://github.com/rafi021/prometheus-yaml) · [k8s commands](https://github.com/rafi021/k8s-editor-commands)
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technologies |
+| --- | --- |
+| **Core Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **API & Contracts** | ![REST](https://img.shields.io/badge/REST-0891B2?style=flat-square&logo=openapiinitiative&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-0891B2?style=flat-square&logo=grpc&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-0891B2?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Messaging** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
+| **Infra & Ops** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624) |
+
+<sub>Also shipped production systems in **PHP/Laravel** for many years — happy to talk about it, just not where I spend my time now.</sub>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rafi021&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&icon_color=0891B2&title_color=0891B2&card_width=450" />
+  <img height="170" alt="Mahmud Ibrahim's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rafi021&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=graywhite&icon_color=0891B2&title_color=0891B2&card_width=450" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi021&layout=compact&langs_count=4&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=0891B2&custom_title=Languages+I+Build+In&hide=php,blade,html,css,hack,shell,vue,java,dart,scss,less,dockerfile,mustache,makefile,batchfile,powershell,perl,ruby,c%23,c%2B%2B,c,objective-c,jupyter%20notebook,procfile,cmake,smarty,twig,handlebars" />
+  <img height="170" alt="Languages I build in: TypeScript, JavaScript, Python, Go" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi021&layout=compact&langs_count=4&include_all_commits=true&count_private=true&hide_border=true&theme=graywhite&title_color=0891B2&custom_title=Languages+I+Build+In&hide=php,blade,html,css,hack,shell,vue,java,dart,scss,less,dockerfile,mustache,makefile,batchfile,powershell,perl,ruby,c%23,c%2B%2B,c,objective-c,jupyter%20notebook,procfile,cmake,smarty,twig,handlebars" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rafi021&hide_border=true&theme=github-dark&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" />
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=rafi021&hide_border=true&theme=graywhite&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to open-source collaboration and architecture conversations.**
+Fastest way to reach me → [eng.ibrahim.mahmud@gmail.com](mailto:eng.ibrahim.mahmud@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=rafi021&style=flat-square&color=0891B2&label=Profile+views)
+
+</div>
