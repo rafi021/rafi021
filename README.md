@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Mahmud Ibrahim
 ===================================================================================================
 
-Professional Full Stack Developer (Speciality Backend Engineering)
+Professional Full Stack Platform Engineer (Specialty: Backend Engineering)
 -----------------------------------------------------------
-I am a Full Stack Web Developer. I am working with Laravel, PHP, Vue, React, TypeScript, REST API, GraphQL, MySQL, PostgreSQL, MongoDB, Docker, Micro Services, CI/CD, RabittMQ, Kafka, Kubernetes, Linux, AWS and Other SSR & CSR Tech Stack. I have a decade (10+ Yrs) of experience in developing static/dynamic websites using PHP and JavaScript (ES6). I am a quick learner & I believe in hard work and efficiency. I am passionate about the effectiveness and speed of development and also the fun of clean code - so that clients get the first version of the product as soon as possible.
+I am a Full Stack Web Developer. I work with NestJS, Go, Python/FastAPI, Django, PHP/Laravel,  Vue, React/Next.Js, TypeScript, REST API, GraphQL, MySQL, PostgreSQL, MongoDB, Docker, microservices, CI/CD, RabbitMQ, Kafka, Kubernetes, Linux, AWS, and Other SSR & CSR Tech Stack. I have a decade (14+ years) of experience in developing static/dynamic websites using TS, JS, Go, and Python. I am a quick learner & I believe in hard work and efficiency. I am passionate about the effectiveness and speed of development and also the fun of clean code, so that clients get the first version of the product as soon as possible.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [My Profile](https://rafi021.github.io/mahmud-ibrahim-portfolio/)
 * ✉️  You can contact me at [eng.ibrahim.mahmud@gmail.com](mailto:eng.ibrahim.mahmud@gmail.com)
-* 🚀  I'm currently working as Senior Backend Engineer
-* 🤝  I'm open to collaborating on Open Source Projects
+* 🚀  I'm currently working as a Solution Architect & FDE at Akij Venture Ltd
+* 🤝  I'm open to collaborating on open-source projects
 * ⚡  I love to ride 🏍️ bike. 
 
 <a href="https://www.github.com/rafi021" target="_blank" rel="noreferrer"><img
@@ -21,7 +21,7 @@ src="https://img.shields.io/twitter/follow/EngMahmudI13953?logo=twitter&style=fo
 
 
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://nestjs.com/logo.svg" width="36" height="36" alt="nestjs" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -42,6 +42,7 @@ src="https://img.shields.io/twitter/follow/EngMahmudI13953?logo=twitter&style=fo
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 
 </p>
