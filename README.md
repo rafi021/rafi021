@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Professional Full Stack Platform Engineer (Specialty: Backend Engineering)
 -----------------------------------------------------------
-I am a Full Stack Web Developer. I work with NestJS, Go, Python/FastAPI, Django, PHP/Laravel,  Vue, React/Next.Js, TypeScript, REST API, GraphQL, MySQL, PostgreSQL, MongoDB, Docker, microservices, CI/CD, RabbitMQ, Kafka, Kubernetes, Linux, AWS, and Other SSR & CSR Tech Stack. I have a decade (14+ years) of experience in developing static/dynamic websites using TS, JS, Go, and Python. I am a quick learner & I believe in hard work and efficiency. I am passionate about the effectiveness and speed of development and also the fun of clean code, so that clients get the first version of the product as soon as possible.
+I am a Full Stack Platform Engineer. I work with NestJS, Go, Python/FastAPI, Django, PHP/Laravel,  Vue, React/Next.Js, TypeScript, REST API, GraphQL, MySQL, PostgreSQL, MongoDB, Docker, microservices, CI/CD, RabbitMQ, Kafka, Kubernetes, Linux, AWS, and Other SSR & CSR Tech Stack. I have a decade (14+ years) of experience in developing static/dynamic websites using TS, JS, Go, and Python. I am a quick learner & I believe in hard work and efficiency. I am passionate about efficient, fast development and clean code, so clients get the first version of the product as soon as possible.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [My Profile](https://rafi021.github.io/mahmud-ibrahim-portfolio/)
